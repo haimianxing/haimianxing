@@ -1,6 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  push:           # 每次 push 代码时自动更新
+    branches:
+      - main
   schedule: # 每天 UTC 18:00 运行 (北京时间 02:00)
     - cron: "0 18 * * *"
   workflow_dispatch:
