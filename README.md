@@ -2,14 +2,10 @@
 
 I'm haimianxing
 
+## Contribution Graph
+
+![snake](https://raw.githubusercontent.com/haimianxing/haimianxing/main/dist/github-snake.svg)
+
 ## Stats
 
 ![](./profile-3d-contrib/profile-season.svg)
-
-## Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-  <img alt="github-snake" src="./dist/github-snake.svg" />
-</picture>
